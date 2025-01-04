@@ -18,7 +18,7 @@ $ source venv/bin/activate
 $ mkdir zdv-workspace
 $ cd zdv-workspace
 $ export ZEPHYR_TOOLCHAIN_VARIANT=gnuarmemb
-$ export GNUARMEMB_TOOLCHAIN_PATH=C:\gnu_embedded
+$ export GNUARMEMB_TOOLCHAIN_PATH=C:/gnu_embedded/10_2021_10
 $ west init -m https://github.com/H4w4k4/zdv
 $ west update
 $ pip3 install -r zephyr/scripts/requirements.txt
