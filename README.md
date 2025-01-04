@@ -14,7 +14,7 @@ Follow the [Zephyr Getting Started Guide](https://docs.zephyrproject.org/2.7.0/g
 
 ```
 $ virtualenv venv
-$ source venv/bin/activate
+$ source venv/Scripts/activate
 $ mkdir zdv-workspace
 $ cd zdv-workspace
 $ export ZEPHYR_TOOLCHAIN_VARIANT=gnuarmemb
