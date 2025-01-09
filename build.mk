@@ -18,6 +18,7 @@ TARGETS = \
 	Nordic-nRF52840-DK \
 	ST-Nucleo-F207ZG \
 	ST-Nucleo-F103RB \
+	ST-Nucleo-G0B1RE \
 
 DIST = dist
 DEPS = \
